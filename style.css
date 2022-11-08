@@ -1,0 +1,43 @@
+body {
+  font-family:poppins;
+  width:65%;
+  margin:10px auto;
+ 
+}
+
+progress, input[type="range"] {
+  margin-top:18px;
+}
+
+h2 {
+  background-color:#f1c40f;
+  padding-left:10px;
+  color:black;
+  text-align:center
+}
+
+.title{
+Background-color:lightgrey;
+  padding:5px 10px;
+  border-radius:10px ;
+}
+
+
+
+
+input[type=radio],input[type=checkbox] {
+  width:20px;
+  height:20px;
+}
+
+/* Play Here By Changing Color */
+
+input, progress{
+	accent-color:rgb(0, 255, 255);
+}
+
+/*
+#f1c40f | HEX
+rgb(0, 255, 255) | RGB 
+hsl(116, 94%, 50%)| HSL 
+*/

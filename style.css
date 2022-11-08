@@ -22,8 +22,17 @@ Background-color:lightgrey;
   border-radius:10px ;
 }
 
+footer {
+text-align:center;
+}
 
+a {
+text-decoration:none;
+}
 
+a:hover{
+text-decoration:underline;
+}
 
 input[type=radio],input[type=checkbox] {
   width:20px;
